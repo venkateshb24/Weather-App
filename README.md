@@ -1,3 +1,8 @@
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+
+---
+
 # 🌤 Weather Checker App
 
 A simple and beautiful weather checker web application built with HTML, CSS, and JavaScript. Users can search for the current weather of any city using the OpenWeatherMap API.
@@ -36,3 +41,10 @@ You can deploy this using GitHub Pages or any static hosting service.
 2. Replace the placeholder API key in `script.js`:
    ```js
    const apiKey = "YOUR_API_KEY";
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+Feel free to use, modify, and distribute it for personal or educational use.
